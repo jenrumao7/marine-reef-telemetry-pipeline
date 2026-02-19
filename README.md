@@ -150,7 +150,7 @@ dim_sensor
 * sensor_type
 
 The fact tables in the warehouse will reference these surrogate keys instead of storing long string identifiers repeatedly.
-# For example:
+*For example:*
 fact_telemetry
 * station_key
 * sensor_key
